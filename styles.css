@@ -78,7 +78,7 @@ main{
 }
 
 .btn:hover{
-  background: red;
+  background: rgba(217, 36, 237, 1);
 }
 .caption{
   padding:0.8rem;
