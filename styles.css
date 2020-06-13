@@ -25,8 +25,8 @@ img{
 main{
   max-width:900px;
   margin:auto;
-  box-shadow: 30px 0 40px rgba(0,0,0,0.1),
-  -30px 0 40px rgba(0,0,0,0.1);
+  box-shadow: 30px 0 40px rgba(217,36,237,0.1),
+  -30px 0 40px rgba(217,36,237,0.1);
 }
 #landing{
   background-color: white;
